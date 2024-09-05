@@ -3,4 +3,4 @@
 
 ### What is Big Data?
   Big Data is best interpreted as data that has great demand in terms of quantity, time and change. Data that is so vast that must be analyzed quickly urges a new field, Big Data Analytics, to provide guidance on the best practices of transforming data quickly to be interpreted.
-  ![https://imgflip.com/s/meme/Futurama-Zoidberg.jpg]
+  !(https://imgflip.com/s/meme/Futurama-Zoidberg.jpg)
